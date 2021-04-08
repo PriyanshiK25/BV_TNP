@@ -1,0 +1,27 @@
+{
+  "name": "mernbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "admin-bro": "^3.4.0",
+    "admin-bro-expressjs": "^2.1.1",
+    "admin-bro-mongoose": "^0.5.2",
+    "datatables.net": "^1.10.24",
+    "datatables.net-dt": "^1.10.24",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-formidable": "^1.2.0",
+    "hbs": "^4.1.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.15",
+    "multer": "^1.4.2",
+    "socket.io": "^4.0.1"
+  }
+}
